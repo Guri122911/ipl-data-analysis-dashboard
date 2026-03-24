@@ -51,3 +51,9 @@ This project helps in understanding IPL match patterns, team performance, player
 Author
 
 Gursewak Singh
+
+## Dashboard Preview
+
+
+![IPL Dashboard](IPL_Dashboard.png)
+
